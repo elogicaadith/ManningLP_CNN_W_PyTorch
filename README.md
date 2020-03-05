@@ -1,2 +1,2 @@
-# ManningLP_CNN_W_PyTorch
+# Manning Live Project -- Exercises
 Personal Repository for Manning LP - Medical image analysis with PyTorch
